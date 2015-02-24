@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Beranda",
+		"link": "#/"
+	},
+	{
+		"name": "Layanan",
+		"link": "javascript:",
+		"menus": [
+			{
+				"name": "QPOS",
+				"link": "javascript:",
+				"target": "#qpos"
+			},
+			{
+				"name": "QStore",
+				"link": "javascript:",
+				"target": "#qstore"
+			},
+			{
+				"name": "Hardware",
+				"link": "javascript:",
+				"target": "#hardware"
+			},
+			{
+				"name": "Pricing",
+				"link": "javascript:",
+				"target": "#pricing"
+			}
+		]
+	},
+    {
+		"name": "Masuk/Daftar",
+		"link": "#/login"
+	},
+	{
+		"name": "Tour",
+		"link": "#/tour"
+	},
+	{
+		"name": "Hubungi Kami",
+		"link": "javascript:",
+		"target": "#contact-us"
+	}
+]
